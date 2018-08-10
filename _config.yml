@@ -1,17 +1,17 @@
 # Site settings
-title: Augeos - Machine Learning and Data Science
-description: Rodrigo leads data science teams. With a strong commercial focus and a solid background in machine learning, he specialises in personalisation, optimization, demand planning & crm for the consumer goods and Internet industries.A German entrepreneur and founder of Emplido, an analytics recruiting company acquired by Experteer Inc. He has been an invited speaker at the Google Developer Day and the BMWi as well as conducted research with the World Bank and the Mexican federal government on anti-kidnapping technologies. Internationally educated, he graduated with a CEMS Masters in International Management from NUS, VŠE and Bocconi, a Big Data Systems degree from HSE, a Computer Science degree from the TU München and a Technology Management honors graduate degree from CDTM, a top 10 percent of the class elite joint institute. He is fluent in four languages and has lived and worked in 14 countries in the Americas, Europe and Asia.
+title: A blog about lorem ipsum dolor sit amet
+description: A blog about lorem ipsum dolor sit amet
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "https://augeos.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Augeos
-user_description: <p>Rodrigo leads data science teams. With a strong commercial focus and a solid background in machine learning, he specialises in personalisation, optimization, demand planning & crm for the consumer goods and Internet industries. </p><br/><p>A German entrepreneur and founder of Emplido, an analytics recruiting company acquired by Experteer Inc. He has been an invited speaker at the Google Developer Day and the BMWi as well as conducted research with the World Bank and the Mexican federal government on anti-kidnapping technologies.</p><br/> <p>Internationally educated, he graduated with a CEMS Masters in International Management from NUS, VŠE and Bocconi, a Big Data Systems degree from HSE, a Computer Science degree from the TU München and a Technology Management honors graduate degree from CDTM, a top 10 percent of the class elite joint institute. He is fluent in four languages and has lived and worked in 14 countries in the Americas, Europe and Asia.</p>
-user_title: Data Science & Machine Learning Lead
-email: augeos@gmail.com
-twitter_username: augeos
-github_username:  augeos
-linkedin_username:  augeos
+username: Anon Developer
+user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_title: Software Developer
+email: anon@anon.com
+twitter_username: lorem_ipsum
+github_username:  lorem_ipsum
+gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
